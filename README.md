@@ -1,7 +1,7 @@
 
-  # AI-Powered Product Landing Page
+  # Prop Edge
 
-  This is a code bundle for AI-Powered Product Landing Page. The original project is available at https://www.figma.com/design/8f7opEVQxfH7a5GRpwgovN/AI-Powered-Product-Landing-Page.
+  This is a code bundle for Prop Edge. The original project is available at https://www.figma.com/design/8f7opEVQxfH7a5GRpwgovN/Prop-Edge.
 
   ## Running the code
 
